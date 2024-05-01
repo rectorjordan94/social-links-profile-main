@@ -57,3 +57,9 @@ button {
     letter-spacing: .5px;
 }
 
+button:hover {
+    background-color: #d0ff00;
+    cursor: pointer;
+    color: #000000;
+    transition: .25s;
+}
